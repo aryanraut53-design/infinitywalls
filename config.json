@@ -1,0 +1,10 @@
+{
+    "target_url": "https://wallpaperwaves.com/",
+    "selectors": {
+        "detail_page": "h3.jeg_post_title a",
+        "high_res_image": "a[href*='download.php']",
+        "pagination_next": "a.page_nav.next"
+    },
+    "concurrency_limit": 5,
+    "output_dir": "c:/Users/aryan/OneDrive/Desktop/wallpaper scraper/output downloads"
+}
