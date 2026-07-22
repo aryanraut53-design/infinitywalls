@@ -1,4 +1,5 @@
 import React, { useEffect } from 'react';
+import { createPortal } from 'react-dom';
 import { motion, AnimatePresence } from 'framer-motion';
 import { X, Download, ExternalLink, Heart } from 'lucide-react';
 
@@ -24,7 +25,7 @@ const WallpaperModal = ({ file, isOpen, onClose, isFavorite, toggleFavorite }) =
   const resolution = isObject && file.resolution ? file.resolution : '3840×2160';
   const downloadUrl = isLive ? videoUrl : imageUrl;
 
-  return (
+  const modalContent = (
     <AnimatePresence>
       {isOpen && (
         <motion.div
@@ -62,7 +63,7 @@ const WallpaperModal = ({ file, isOpen, onClose, isFavorite, toggleFavorite }) =
                   className="flex items-center gap-1.5 bg-primary hover:bg-primary/90 text-white text-sm font-semibold px-4 py-2 rounded-full transition-all hover:shadow-[0_0_20px_rgba(108,99,255,0.4)] active:scale-95"
                 >
                   <Download className="w-3.5 h-3.5" />
-                  Download
+                  <span className="hidden sm:inline">Download</span>
                 </a>
                 <button
                   onClick={(e) => {
@@ -110,6 +111,9 @@ const WallpaperModal = ({ file, isOpen, onClose, isFavorite, toggleFavorite }) =
       )}
     </AnimatePresence>
   );
+
+  if (typeof document === 'undefined') return null;
+  return createPortal(modalContent, document.body);
 };
 
 export default WallpaperModal;

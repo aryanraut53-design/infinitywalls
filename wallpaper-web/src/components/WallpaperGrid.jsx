@@ -28,17 +28,24 @@ const WallpaperGrid = ({ searchQuery = '', activeCategory = 'All', activeType = 
 
   // Bulletproof scroll-based infinite scroll — works for every category/filter
   useEffect(() => {
+    let timeoutId = null;
     const handleScroll = () => {
-      const scrolled = window.scrollY + window.innerHeight;
-      const total = document.documentElement.scrollHeight;
-      if (scrolled >= total - 400) {
-        // Always increment — content cycles infinitely
-        setVisibleCount(prev => prev + PAGE_SIZE);
-      }
+      if (timeoutId) return;
+      timeoutId = setTimeout(() => {
+        timeoutId = null;
+        const scrolled = window.scrollY + window.innerHeight;
+        const total = document.documentElement.scrollHeight;
+        if (scrolled >= total - 800) { // Increased threshold for smoother loading
+          setVisibleCount(prev => prev + PAGE_SIZE);
+        }
+      }, 150); // 150ms throttle
     };
 
     window.addEventListener('scroll', handleScroll, { passive: true });
-    return () => window.removeEventListener('scroll', handleScroll);
+    return () => {
+      window.removeEventListener('scroll', handleScroll);
+      if (timeoutId) clearTimeout(timeoutId);
+    };
   }, []);
 
   useEffect(() => {
