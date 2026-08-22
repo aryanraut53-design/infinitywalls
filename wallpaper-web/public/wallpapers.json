@@ -1,5 +1,385 @@
 [
   {
+    "id": "https://4kwallpapers.com/cars/ram-1500-2024-5k-8k-14794.html",
+    "title": "Ram 1500, 2024, 5K, 8K, Ram pickup truck",
+    "image_url": "https://4kwallpapers.com/images/wallpapers/ram-1500-2024-5k-8k-3840x2160-14794.jpg",
+    "thumbnail_url": "https://4kwallpapers.com/images/walls/thumbs_2t/14794.jpg",
+    "resolution": "3840x2160",
+    "type": "static",
+    "category": "vehicle",
+    "source": "4kwallpapers"
+  },
+  {
+    "id": "https://wallpaperwaves.com/anime/hoshimi-miyabi-black-outfit-zzz-live-wallpaper/",
+    "title": "Hoshimi Miyabi Black Outfit ZZZ",
+    "video_url": "https://wallpaperwaves.com/download.php?video=public_html/26/hoshimi-miyabi-black-outfit-zzz-wallpaperwaves-com.mp4",
+    "thumbnail_url": "https://wallpaperwaves.com/wp-content/uploads/2026/08/hoshimi-miyabi-black-outfit-zzz-wallpaperwaves-com.webp",
+    "type": "live",
+    "category": "live",
+    "source": "wallpaperwaves"
+  },
+  {
+    "id": "https://4kwallpapers.com/cars/bugatti-chiron-14989.html",
+    "title": "Bugatti Chiron Super Sport 300+, 2024",
+    "image_url": "https://4kwallpapers.com/images/wallpapers/bugatti-chiron-3840x2160-14989.jpg",
+    "thumbnail_url": "https://4kwallpapers.com/images/walls/thumbs_2t/14989.jpg",
+    "resolution": "3840x2160",
+    "type": "static",
+    "category": "vehicle",
+    "source": "4kwallpapers"
+  },
+  {
+    "id": "https://wallpaperwaves.com/games/mercenary-valerie-v-cyberpunk-2077-live-wallpaper/",
+    "title": "Mercenary Valerie V Cyberpunk 2077",
+    "video_url": "https://wallpaperwaves.com/download.php?video=public_html/26/mercenary-valerie-v-cyberpunk-2077-wallpaperwaves-com.mp4",
+    "thumbnail_url": "https://wallpaperwaves.com/wp-content/uploads/2026/08/mercenary-valerie-v-cyberpunk-2077-wallpaperwaves-com.webp",
+    "type": "live",
+    "category": "live",
+    "source": "wallpaperwaves"
+  },
+  {
+    "id": "https://4kwallpapers.com/cars/porsche-911-classic-14784.html",
+    "title": "Porsche 911, Classic cars, Porsche 911 Turbo, 5K",
+    "image_url": "https://4kwallpapers.com/images/wallpapers/porsche-911-classic-3840x2160-14784.jpg",
+    "thumbnail_url": "https://4kwallpapers.com/images/walls/thumbs_2t/14784.jpg",
+    "resolution": "3840x2160",
+    "type": "static",
+    "category": "vehicle",
+    "source": "4kwallpapers"
+  },
+  {
+    "id": "https://wallpaperwaves.com/games/quantum-galaxy-slayer-zed-league-of-legends-live-wallpaper/",
+    "title": "Quantum Galaxy Slayer Zed League of Legends",
+    "video_url": "https://wallpaperwaves.com/download.php?video=public_html/26/quantum-galaxy-slayer-zed-league-of-legends-wallpaperwaves-com.mp4",
+    "thumbnail_url": "https://wallpaperwaves.com/wp-content/uploads/2026/08/quantum-galaxy-slayer-zed-league-of-legends-wallpaperwaves-com.webp",
+    "type": "live",
+    "category": "live",
+    "source": "wallpaperwaves"
+  },
+  {
+    "id": "https://4kwallpapers.com/cars/porsche-911-turbo-14795.html",
+    "title": "Porsche 911 Turbo, Remastered, 5K",
+    "image_url": "https://4kwallpapers.com/images/wallpapers/porsche-911-turbo-3840x2160-14795.jpg",
+    "thumbnail_url": "https://4kwallpapers.com/images/walls/thumbs_2t/14795.jpg",
+    "resolution": "3840x2160",
+    "type": "static",
+    "category": "vehicle",
+    "source": "4kwallpapers"
+  },
+  {
+    "id": "https://wallpaperwaves.com/landscape/peaceful-blue-ocean-and-sky-live-wallpaper/",
+    "title": "Peaceful Blue Ocean and Sky",
+    "video_url": "https://wallpaperwaves.com/download.php?video=public_html/26/peaceful-blue-ocean-and-sky-wallpaperwaves-com.mp4",
+    "thumbnail_url": "https://wallpaperwaves.com/wp-content/uploads/2026/08/peaceful-blue-ocean-and-sky-wallpaperwaves-com.webp",
+    "type": "live",
+    "category": "live",
+    "source": "wallpaperwaves"
+  },
+  {
+    "id": "https://wallpaperwaves.com/anime/gilberta-arknights-endfield-cat-cafe-live-wallpaper/",
+    "title": "Gilberta Arknights Endfield Cat Café",
+    "video_url": "https://wallpaperwaves.com/download.php?video=public_html/26/gilberta-arknights-endfield-cat-cafe-wallpaperwaves-com.mp4",
+    "thumbnail_url": "https://wallpaperwaves.com/wp-content/uploads/2026/08/gilberta-arknights-endfield-cat-cafe-wallpaperwaves-com.webp",
+    "type": "live",
+    "category": "live",
+    "source": "wallpaperwaves"
+  },
+  {
+    "id": "https://4kwallpapers.com/cars/audi-sq7-tfsi-2024-5k-14985.html",
+    "title": "Audi SQ7 TFSI, 2024, 5K",
+    "image_url": "https://4kwallpapers.com/images/wallpapers/audi-sq7-tfsi-2024-5k-3840x2160-14985.jpg",
+    "thumbnail_url": "https://4kwallpapers.com/images/walls/thumbs_2t/14985.jpg",
+    "resolution": "3840x2160",
+    "type": "static",
+    "category": "vehicle",
+    "source": "4kwallpapers"
+  },
+  {
+    "id": "https://4kwallpapers.com/cars/toyota-supra-neon-14597.html",
+    "title": "Toyota Supra, Neon, Cyberpunk, City night, Street",
+    "image_url": "https://4kwallpapers.com/images/wallpapers/toyota-supra-neon-3840x2160-14597.jpg",
+    "thumbnail_url": "https://4kwallpapers.com/images/walls/thumbs_2t/14597.jpg",
+    "resolution": "3840x2160",
+    "type": "static",
+    "category": "vehicle",
+    "source": "4kwallpapers"
+  },
+  {
+    "id": "https://4kwallpapers.com/cars/toyota-supra-a90-14672.html",
+    "title": "Toyota Supra A90, Red cars, Sports car, Night, 5K",
+    "image_url": "https://4kwallpapers.com/images/wallpapers/toyota-supra-a90-3840x2160-14672.jpg",
+    "thumbnail_url": "https://4kwallpapers.com/images/walls/thumbs_2t/14672.jpg",
+    "resolution": "3840x2160",
+    "type": "static",
+    "category": "vehicle",
+    "source": "4kwallpapers"
+  },
+  {
+    "id": "https://wallpaperwaves.com/anime/exusiai-the-new-covenant-arknights-lute-live-wallpaper/",
+    "title": "Exusiai the New Covenant Arknights Lute",
+    "video_url": "https://wallpaperwaves.com/download.php?video=public_html/26/exusiai-the-new-covenant-arknights-lute-wallpaperwaves-com.mp4",
+    "thumbnail_url": "https://wallpaperwaves.com/wp-content/uploads/2026/08/exusiai-the-new-covenant-arknights-lute-wallpaperwaves-com.webp",
+    "type": "live",
+    "category": "live",
+    "source": "wallpaperwaves"
+  },
+  {
+    "id": "https://4kwallpapers.com/cars/neon-toyota-supra-14625.html",
+    "title": "Neon, Toyota Supra Mk4, Sports cars, Retro, JDM cars",
+    "image_url": "https://4kwallpapers.com/images/wallpapers/neon-toyota-supra-3840x2160-14625.jpg",
+    "thumbnail_url": "https://4kwallpapers.com/images/walls/thumbs_2t/14625.jpg",
+    "resolution": "3840x2160",
+    "type": "static",
+    "category": "vehicle",
+    "source": "4kwallpapers"
+  },
+  {
+    "id": "https://wallpaperwaves.com/anime/spider-man-noir-full-moon-dark-live-wallpaper/",
+    "title": "Spider-Man Noir Full Moon Dark",
+    "video_url": "https://wallpaperwaves.com/download.php?video=public_html/26/spider-man-noir-full-moon-dark-wallpaperwaves-com.mp4",
+    "thumbnail_url": "https://wallpaperwaves.com/wp-content/uploads/2026/08/spider-man-noir-full-moon-dark-wallpaperwaves-com.webp",
+    "type": "live",
+    "category": "live",
+    "source": "wallpaperwaves"
+  },
+  {
+    "id": "https://wallpaperwaves.com/anime/sung-jinwoo-flame-aura-solo-leveling-live-wallpaper/",
+    "title": "Sung Jinwoo Flame Aura Solo Leveling",
+    "video_url": "https://wallpaperwaves.com/download.php?video=public_html/26/sung-jinwoo-flame-aura-solo-leveling-wallpaperwaves-com.mp4",
+    "thumbnail_url": "https://wallpaperwaves.com/wp-content/uploads/2026/08/sung-jinwoo-flame-aura-solo-leveling-wallpaperwaves-com.webp",
+    "type": "live",
+    "category": "live",
+    "source": "wallpaperwaves"
+  },
+  {
+    "id": "https://4kwallpapers.com/cars/porsche-macan-turbo-14803.html",
+    "title": "Porsche Macan Turbo, Electric cars, 2024, 5K, 8K, Dark background",
+    "image_url": "https://4kwallpapers.com/images/wallpapers/porsche-macan-turbo-3840x2160-14803.jpg",
+    "thumbnail_url": "https://4kwallpapers.com/images/walls/thumbs_2t/14803.jpg",
+    "resolution": "3840x2160",
+    "type": "static",
+    "category": "vehicle",
+    "source": "4kwallpapers"
+  },
+  {
+    "id": "https://wallpaperwaves.com/fantasy/medieval-sword-in-peaceful-garden-live-wallpaper/",
+    "title": "Medieval Sword in Peaceful Garden",
+    "video_url": "https://wallpaperwaves.com/download.php?video=public_html/26/medieval-sword-in-peaceful-garden-wallpaperwaves-com.mp4",
+    "thumbnail_url": "https://wallpaperwaves.com/wp-content/uploads/2026/08/medieval-sword-in-peaceful-garden-wallpaperwaves-com.webp",
+    "type": "live",
+    "category": "live",
+    "source": "wallpaperwaves"
+  },
+  {
+    "id": "https://4kwallpapers.com/cars/dodge-challenger-14770.html",
+    "title": "Dodge Challenger SRT Demon, 8K, 5K, Hennessey, 2024",
+    "image_url": "https://4kwallpapers.com/images/wallpapers/dodge-challenger-3840x2160-14770.jpeg",
+    "thumbnail_url": "https://4kwallpapers.com/images/walls/thumbs_2t/14770.jpeg",
+    "resolution": "3840x2160",
+    "type": "static",
+    "category": "vehicle",
+    "source": "4kwallpapers"
+  },
+  {
+    "id": "https://wallpaperwaves.com/anime/kirito-and-asuna-sword-art-online-landscape-live-wallpaper/",
+    "title": "Kirito and Asuna Sword Art Online Landscape",
+    "video_url": "https://wallpaperwaves.com/download.php?video=public_html/26/kirito-and-asuna-sword-art-online-landscape-wallpaperwaves-com.mp4",
+    "thumbnail_url": "https://wallpaperwaves.com/wp-content/uploads/2026/08/kirito-and-asuna-sword-art-online-landscape-wallpaperwaves-com.webp",
+    "type": "live",
+    "category": "live",
+    "source": "wallpaperwaves"
+  },
+  {
+    "id": "https://wallpaperwaves.com/anime/reze-fireworks-night-chainsaw-man-live-wallpaper/",
+    "title": "Reze Fireworks Night Chainsaw Man",
+    "video_url": "https://wallpaperwaves.com/download.php?video=public_html/26/reze-fireworks-night-chainsaw-man-wallpaperwaves-com.mp4",
+    "thumbnail_url": "https://wallpaperwaves.com/wp-content/uploads/2026/08/reze-fireworks-night-chainsaw-man-wallpaperwaves-com.webp",
+    "type": "live",
+    "category": "live",
+    "source": "wallpaperwaves"
+  },
+  {
+    "id": "https://wallpaperwaves.com/retro/retro-vhs-store-neon-rain-live-wallpaper/",
+    "title": "Retro VHS Store Neon Rain",
+    "video_url": "https://wallpaperwaves.com/download.php?video=public_html/26/retro-vhs-store-neon-rain-wallpaperwaves-com.mp4",
+    "thumbnail_url": "https://wallpaperwaves.com/wp-content/uploads/2026/08/retro-vhs-store-neon-rain-wallpaperwaves-com.webp",
+    "type": "live",
+    "category": "live",
+    "source": "wallpaperwaves"
+  },
+  {
+    "id": "https://4kwallpapers.com/cars/nissan-gt-r-r35-14565.html",
+    "title": "Nissan GT-R R35, Night, Lights, Aircraft, Hanger, Japanese",
+    "image_url": "https://4kwallpapers.com/images/wallpapers/nissan-gt-r-r35-3840x2160-14565.jpg",
+    "thumbnail_url": "https://4kwallpapers.com/images/walls/thumbs_2t/14565.jpg",
+    "resolution": "3840x2160",
+    "type": "static",
+    "category": "vehicle",
+    "source": "4kwallpapers"
+  },
+  {
+    "id": "https://wallpaperwaves.com/landscape/dreamy-cottage-under-purple-sky-live-wallpaper/",
+    "title": "Dreamy Cottage Under Purple Sky",
+    "video_url": "https://wallpaperwaves.com/download.php?video=public_html/26/dreamy-cottage-under-purple-sky-wallpaperwaves-com.mp4",
+    "thumbnail_url": "https://wallpaperwaves.com/wp-content/uploads/2026/08/dreamy-cottage-under-purple-sky-wallpaperwaves-com.webp",
+    "type": "live",
+    "category": "live",
+    "source": "wallpaperwaves"
+  },
+  {
+    "id": "https://wallpaperwaves.com/pixel-art/pixel-cat-falling-in-space-live-wallpaper/",
+    "title": "Pixel Cat Falling in Space",
+    "video_url": "https://wallpaperwaves.com/download.php?video=public_html/26/pixel-cat-falling-in-space-wallpaperwaves-com.mp4",
+    "thumbnail_url": "https://wallpaperwaves.com/wp-content/uploads/2026/08/pixel-cat-falling-in-space-wallpaperwaves-com.webp",
+    "type": "live",
+    "category": "live",
+    "source": "wallpaperwaves"
+  },
+  {
+    "id": "https://wallpaperwaves.com/anime/giorno-gold-experience-requiem-jjba-live-wallpaper/",
+    "title": "Giorno Gold Experience Requiem JJBA",
+    "video_url": "https://wallpaperwaves.com/download.php?video=public_html/26/giorno-gold-experience-requiem-jjba-wallpaperwaves-com.mp4",
+    "thumbnail_url": "https://wallpaperwaves.com/wp-content/uploads/2026/08/giorno-gold-experience-requiem-jjba-wallpaperwaves-com.webp",
+    "type": "live",
+    "category": "live",
+    "source": "wallpaperwaves"
+  },
+  {
+    "id": "https://4kwallpapers.com/cars/bmw-i5-m-sport-2024-14705.html",
+    "title": "BMW i5 M Sport, 2024, Luxury electric cars, Electric Sedan, 5K, 8K",
+    "image_url": "https://4kwallpapers.com/images/wallpapers/bmw-i5-m-sport-2024-3840x2160-14705.jpg",
+    "thumbnail_url": "https://4kwallpapers.com/images/walls/thumbs_2t/14705.jpg",
+    "resolution": "3840x2160",
+    "type": "static",
+    "category": "vehicle",
+    "source": "4kwallpapers"
+  },
+  {
+    "id": "https://wallpaperwaves.com/games/grimm-and-alice-black-souls-2-live-wallpaper/",
+    "title": "Grimm and Alice Black Souls 2",
+    "video_url": "https://wallpaperwaves.com/download.php?video=public_html/26/grimm-and-alice-black-souls-2-wallpaperwaves-com.mp4",
+    "thumbnail_url": "https://wallpaperwaves.com/wp-content/uploads/2026/08/grimm-and-alice-black-souls-2-wallpaperwaves-com.webp",
+    "type": "live",
+    "category": "live",
+    "source": "wallpaperwaves"
+  },
+  {
+    "id": "https://4kwallpapers.com/cars/audi-q7-2024-5k-14982.html",
+    "title": "Audi Q7, 2024, 5K",
+    "image_url": "https://4kwallpapers.com/images/wallpapers/audi-q7-2024-5k-3840x2160-14982.jpg",
+    "thumbnail_url": "https://4kwallpapers.com/images/walls/thumbs_2t/14982.jpg",
+    "resolution": "3840x2160",
+    "type": "static",
+    "category": "vehicle",
+    "source": "4kwallpapers"
+  },
+  {
+    "id": "https://wallpaperwaves.com/animal/black-cat-watching-full-moon-live-wallpaper/",
+    "title": "Black Cat Watching Full Moon",
+    "video_url": "https://wallpaperwaves.com/download.php?video=public_html/26/black-cat-watching-full-moon-wallpaperwaves-com.mp4",
+    "thumbnail_url": "https://wallpaperwaves.com/wp-content/uploads/2026/08/black-cat-watching-full-moon-wallpaperwaves-com.webp",
+    "type": "live",
+    "category": "live",
+    "source": "wallpaperwaves"
+  },
+  {
+    "id": "https://4kwallpapers.com/black-dark/jeep-wagoneer-s-14708.html",
+    "title": "Jeep Wagoneer S, Electric SUV, 2025, 5K, 8K, Dark background",
+    "image_url": "https://4kwallpapers.com/images/wallpapers/jeep-wagoneer-s-3840x2160-14708.jpg",
+    "thumbnail_url": "https://4kwallpapers.com/images/walls/thumbs_2t/14708.jpg",
+    "resolution": "3840x2160",
+    "type": "static",
+    "category": "vehicle",
+    "source": "4kwallpapers"
+  },
+  {
+    "id": "https://wallpaperwaves.com/anime/kamui-aeternion-punishing-gray-raven-live-wallpaper/",
+    "title": "Kamui Aeternion Punishing Gray Raven",
+    "video_url": "https://wallpaperwaves.com/download.php?video=public_html/26/kamui-aeternion-punishing-gray-raven-wallpaperwaves-com.mp4",
+    "thumbnail_url": "https://wallpaperwaves.com/wp-content/uploads/2026/08/kamui-aeternion-punishing-gray-raven-wallpaperwaves-com.webp",
+    "type": "live",
+    "category": "live",
+    "source": "wallpaperwaves"
+  },
+  {
+    "id": "https://wallpaperwaves.com/anime/toji-fushiguro-moon-chains-jjk-live-wallpaper/",
+    "title": "Toji Fushiguro Moon Chains JJK",
+    "video_url": "https://wallpaperwaves.com/download.php?video=public_html/26/toji-fushiguro-moon-chains-jjk-wallpaperwaves-com.mp4",
+    "thumbnail_url": "https://wallpaperwaves.com/wp-content/uploads/2026/08/toji-fushiguro-moon-chains-jjk-wallpaperwaves-com.webp",
+    "type": "live",
+    "category": "live",
+    "source": "wallpaperwaves"
+  },
+  {
+    "id": "https://4kwallpapers.com/cars/hennessey-dodge-14763.html",
+    "title": "Hennessey, Dodge Challenger SRT Demon, 8K, 5K",
+    "image_url": "https://4kwallpapers.com/images/wallpapers/hennessey-dodge-3840x2160-14763.jpg",
+    "thumbnail_url": "https://4kwallpapers.com/images/walls/thumbs_2t/14763.jpg",
+    "resolution": "3840x2160",
+    "type": "static",
+    "category": "vehicle",
+    "source": "4kwallpapers"
+  },
+  {
+    "id": "https://4kwallpapers.com/cars/ford-mustang-mach-e-14736.html",
+    "title": "Ford Mustang Mach-E GT, 2024, 5K, 8K",
+    "image_url": "https://4kwallpapers.com/images/wallpapers/ford-mustang-mach-e-3840x2160-14736.jpg",
+    "thumbnail_url": "https://4kwallpapers.com/images/walls/thumbs_2t/14736.jpg",
+    "resolution": "3840x2160",
+    "type": "static",
+    "category": "vehicle",
+    "source": "4kwallpapers"
+  },
+  {
+    "id": "https://4kwallpapers.com/cars/rolls-royce-spirit-14762.html",
+    "title": "Rolls-Royce, Spirit of Ecstasy, 5K, 8K, 2024",
+    "image_url": "https://4kwallpapers.com/images/wallpapers/rolls-royce-spirit-3840x2160-14762.jpg",
+    "thumbnail_url": "https://4kwallpapers.com/images/walls/thumbs_2t/14762.jpg",
+    "resolution": "3840x2160",
+    "type": "static",
+    "category": "vehicle",
+    "source": "4kwallpapers"
+  },
+  {
+    "id": "https://4kwallpapers.com/cars/bmw-i5-m-sport-14712.html",
+    "title": "BMW i5 M Sport, Electric Sedan, 2024, Luxury electric cars, 5K",
+    "image_url": "https://4kwallpapers.com/images/wallpapers/bmw-i5-m-sport-3840x2160-14712.jpg",
+    "thumbnail_url": "https://4kwallpapers.com/images/walls/thumbs_2t/14712.jpg",
+    "resolution": "3840x2160",
+    "type": "static",
+    "category": "vehicle",
+    "source": "4kwallpapers"
+  },
+  {
+    "id": "https://4kwallpapers.com/cars/porsche-macan-4-14790.html",
+    "title": "Porsche Macan 4, Electric cars, 2024, 5K, 8K, Dark background",
+    "image_url": "https://4kwallpapers.com/images/wallpapers/porsche-macan-4-3840x2160-14790.jpg",
+    "thumbnail_url": "https://4kwallpapers.com/images/walls/thumbs_2t/14790.jpg",
+    "resolution": "3840x2160",
+    "type": "static",
+    "category": "vehicle",
+    "source": "4kwallpapers"
+  },
+  {
+    "id": "https://4kwallpapers.com/cars/mercedes-amg-g-63-14913.html",
+    "title": "Mercedes-AMG G 63, 8K, G Wagon, Mercedes-AMG G-Class SUV, 5K, Dark aesthetic",
+    "image_url": "https://4kwallpapers.com/images/wallpapers/mercedes-amg-g-63-3840x2160-14913.jpeg",
+    "thumbnail_url": "https://4kwallpapers.com/images/walls/thumbs_2t/14913.jpeg",
+    "resolution": "3840x2160",
+    "type": "static",
+    "category": "vehicle",
+    "source": "4kwallpapers"
+  },
+  {
+    "id": "https://wallpaperwaves.com/vehicle/toyota-supra-neon-crystal-galaxy-live-wallpaper/",
+    "title": "Toyota Supra Neon Crystal Galaxy",
+    "video_url": "https://wallpaperwaves.com/download.php?video=public_html/26/toyota-supra-neon-crystal-galaxy-wallpaperwaves-com.mp4",
+    "thumbnail_url": "https://wallpaperwaves.com/wp-content/uploads/2026/08/toyota-supra-neon-crystal-galaxy-wallpaperwaves-com.webp",
+    "type": "live",
+    "category": "live",
+    "source": "wallpaperwaves"
+  },
+  {
     "id": "https://4kwallpapers.com/cars/toyota-gr-supra-a90-22177.html",
     "title": "Toyota GR Supra A90, Studio, Final Edition, 2025, 5K, Dark aesthetic",
     "image_url": "https://4kwallpapers.com/images/wallpapers/toyota-gr-supra-a90-3840x2160-22177.jpg",
