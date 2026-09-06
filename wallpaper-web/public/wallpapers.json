@@ -1,5 +1,205 @@
 [
   {
+    "id": "https://4kwallpapers.com/cars/aston-martin-db12-20273.html",
+    "title": "Aston Martin DB12, Sunset, 2025, 5K, 8K, Supercars",
+    "image_url": "https://4kwallpapers.com/images/wallpapers/aston-martin-db12-3840x2160-20273.jpg",
+    "thumbnail_url": "https://4kwallpapers.com/images/walls/thumbs_2t/20273.jpg",
+    "resolution": "3840x2160",
+    "type": "static",
+    "category": "vehicle",
+    "source": "4kwallpapers"
+  },
+  {
+    "id": "https://4kwallpapers.com/cars/mclaren-speedtail-20305.html",
+    "title": "McLaren Speedtail, Dark aesthetic, 5K, 8K, Concept cars",
+    "image_url": "https://4kwallpapers.com/images/wallpapers/mclaren-speedtail-3840x2160-20305.jpg",
+    "thumbnail_url": "https://4kwallpapers.com/images/walls/thumbs_2t/20305.jpg",
+    "resolution": "3840x2160",
+    "type": "static",
+    "category": "vehicle",
+    "source": "4kwallpapers"
+  },
+  {
+    "id": "https://4kwallpapers.com/cars/pagani-zonda-f-20306.html",
+    "title": "Pagani Zonda F, Hyper Sports Cars, 5K, 8K",
+    "image_url": "https://4kwallpapers.com/images/wallpapers/pagani-zonda-f-3840x2160-20306.jpg",
+    "thumbnail_url": "https://4kwallpapers.com/images/walls/thumbs_2t/20306.jpg",
+    "resolution": "3840x2160",
+    "type": "static",
+    "category": "vehicle",
+    "source": "4kwallpapers"
+  },
+  {
+    "id": "https://4kwallpapers.com/cars/g-power-g4m-bi-20297.html",
+    "title": "G-Power G4M Bi-Turbo, 8K, BMW M4 Coupe, 2024, 5K",
+    "image_url": "https://4kwallpapers.com/images/wallpapers/g-power-g4m-bi-3840x2160-20297.jpg",
+    "thumbnail_url": "https://4kwallpapers.com/images/walls/thumbs_2t/20297.jpg",
+    "resolution": "3840x2160",
+    "type": "static",
+    "category": "vehicle",
+    "source": "4kwallpapers"
+  },
+  {
+    "id": "https://4kwallpapers.com/cars/subaru-wrx-s4-sti-20304.html",
+    "title": "Subaru WRX S4 STI Sport, 2024, 5K",
+    "image_url": "https://4kwallpapers.com/images/wallpapers/subaru-wrx-s4-sti-3840x2160-20304.jpg",
+    "thumbnail_url": "https://4kwallpapers.com/images/walls/thumbs_2t/20304.jpg",
+    "resolution": "3840x2160",
+    "type": "static",
+    "category": "vehicle",
+    "source": "4kwallpapers"
+  },
+  {
+    "id": "https://4kwallpapers.com/cars/lamborghini-si-n-20407.html",
+    "title": "Lamborghini Sián Roadster, Vertical, 5K, Hybrid sports car",
+    "image_url": "https://4kwallpapers.com/images/wallpapers/lamborghini-si-n-3840x2160-20407.jpg",
+    "thumbnail_url": "https://4kwallpapers.com/images/walls/thumbs_2t/20407.jpg",
+    "resolution": "3840x2160",
+    "type": "static",
+    "category": "vehicle",
+    "source": "4kwallpapers"
+  },
+  {
+    "id": "https://4kwallpapers.com/cars/mercedes-benz-g-580-20279.html",
+    "title": "Mercedes-Benz G 580 EQ Technology, 2025, Mercedes-Benz G 580",
+    "image_url": "https://4kwallpapers.com/images/wallpapers/mercedes-benz-g-580-3840x2160-20279.jpg",
+    "thumbnail_url": "https://4kwallpapers.com/images/walls/thumbs_2t/20279.jpg",
+    "resolution": "3840x2160",
+    "type": "static",
+    "category": "vehicle",
+    "source": "4kwallpapers"
+  },
+  {
+    "id": "https://4kwallpapers.com/cars/mercedes-amg-gle-63-20294.html",
+    "title": "Mercedes-AMG GLE 63 S 4MATIC+, Mansory, 5K",
+    "image_url": "https://4kwallpapers.com/images/wallpapers/mercedes-amg-gle-63-3840x2160-20294.jpg",
+    "thumbnail_url": "https://4kwallpapers.com/images/walls/thumbs_2t/20294.jpg",
+    "resolution": "3840x2160",
+    "type": "static",
+    "category": "vehicle",
+    "source": "4kwallpapers"
+  },
+  {
+    "id": "https://4kwallpapers.com/cars/topcar-lamborghini-20303.html",
+    "title": "TopCar Lamborghini Urus REvo, Limited edition, 5K, Purple aesthetic, Lamborghini Urus, Lamborghini Urus R’Evo",
+    "image_url": "https://4kwallpapers.com/images/wallpapers/topcar-lamborghini-3840x2160-20303.jpg",
+    "thumbnail_url": "https://4kwallpapers.com/images/walls/thumbs_2t/20303.jpg",
+    "resolution": "3840x2160",
+    "type": "static",
+    "category": "vehicle",
+    "source": "4kwallpapers"
+  },
+  {
+    "id": "https://4kwallpapers.com/cars/pagani-huayra-r-evo-20230.html",
+    "title": "Pagani Huayra R Evo, 2025, Hypercars, 5K, 8K",
+    "image_url": "https://4kwallpapers.com/images/wallpapers/pagani-huayra-r-evo-3840x2160-20230.jpg",
+    "thumbnail_url": "https://4kwallpapers.com/images/walls/thumbs_2t/20230.jpg",
+    "resolution": "3840x2160",
+    "type": "static",
+    "category": "vehicle",
+    "source": "4kwallpapers"
+  },
+  {
+    "id": "https://4kwallpapers.com/cars/mercedes-amg-gt-63-20309.html",
+    "title": "Mercedes-AMG GT 63 S E Performance, F1 Edition, 5K",
+    "image_url": "https://4kwallpapers.com/images/wallpapers/mercedes-amg-gt-63-3840x2160-20309.jpg",
+    "thumbnail_url": "https://4kwallpapers.com/images/walls/thumbs_2t/20309.jpg",
+    "resolution": "3840x2160",
+    "type": "static",
+    "category": "vehicle",
+    "source": "4kwallpapers"
+  },
+  {
+    "id": "https://4kwallpapers.com/cars/porsche-911-993-20280.html",
+    "title": "Porsche 911 (993), Gunther Werks, Sports cars, Classic cars, 5K",
+    "image_url": "https://4kwallpapers.com/images/wallpapers/porsche-911-993-3840x2160-20280.jpg",
+    "thumbnail_url": "https://4kwallpapers.com/images/walls/thumbs_2t/20280.jpg",
+    "resolution": "3840x2160",
+    "type": "static",
+    "category": "vehicle",
+    "source": "4kwallpapers"
+  },
+  {
+    "id": "https://4kwallpapers.com/cars/renault-5-turbo-3e-20311.html",
+    "title": "Renault 5 Turbo 3E, 2025, Electric cars, Concept cars, Dark background, 5K, 8K",
+    "image_url": "https://4kwallpapers.com/images/wallpapers/renault-5-turbo-3e-3840x2160-20311.jpg",
+    "thumbnail_url": "https://4kwallpapers.com/images/walls/thumbs_2t/20311.jpg",
+    "resolution": "3840x2160",
+    "type": "static",
+    "category": "vehicle",
+    "source": "4kwallpapers"
+  },
+  {
+    "id": "https://4kwallpapers.com/cars/ds-n8-etoile-2025-20291.html",
+    "title": "DS N8 Etoile, 2025, Electric SUV, Concept cars",
+    "image_url": "https://4kwallpapers.com/images/wallpapers/ds-n8-etoile-2025-3840x2160-20291.jpg",
+    "thumbnail_url": "https://4kwallpapers.com/images/walls/thumbs_2t/20291.jpg",
+    "resolution": "3840x2160",
+    "type": "static",
+    "category": "vehicle",
+    "source": "4kwallpapers"
+  },
+  {
+    "id": "https://4kwallpapers.com/cars/ferrari-12cilindri-20285.html",
+    "title": "Ferrari 12Cilindri, Malaysia, Hypercars, 5K",
+    "image_url": "https://4kwallpapers.com/images/wallpapers/ferrari-12cilindri-3840x2160-20285.jpeg",
+    "thumbnail_url": "https://4kwallpapers.com/images/walls/thumbs_2t/20285.jpeg",
+    "resolution": "3840x2160",
+    "type": "static",
+    "category": "vehicle",
+    "source": "4kwallpapers"
+  },
+  {
+    "id": "https://4kwallpapers.com/cars/mansory-rolls-royce-20299.html",
+    "title": "Mansory Rolls-Royce Cullinan, 2024, 5K, Rolls-Royce Cullinan, Grey",
+    "image_url": "https://4kwallpapers.com/images/wallpapers/mansory-rolls-royce-3840x2160-20299.jpg",
+    "thumbnail_url": "https://4kwallpapers.com/images/walls/thumbs_2t/20299.jpg",
+    "resolution": "3840x2160",
+    "type": "static",
+    "category": "vehicle",
+    "source": "4kwallpapers"
+  },
+  {
+    "id": "https://4kwallpapers.com/cars/brabus-750-mercedes-20275.html",
+    "title": "BRABUS 750, Mercedes-AMG SL 63, 5K, 8K, White background",
+    "image_url": "https://4kwallpapers.com/images/wallpapers/brabus-750-mercedes-3840x2160-20275.jpg",
+    "thumbnail_url": "https://4kwallpapers.com/images/walls/thumbs_2t/20275.jpg",
+    "resolution": "3840x2160",
+    "type": "static",
+    "category": "vehicle",
+    "source": "4kwallpapers"
+  },
+  {
+    "id": "https://4kwallpapers.com/cars/aston-martin-db12-20278.html",
+    "title": "Aston Martin DB12, 5K, 2025, Supercars",
+    "image_url": "https://4kwallpapers.com/images/wallpapers/aston-martin-db12-3840x2160-20278.jpg",
+    "thumbnail_url": "https://4kwallpapers.com/images/walls/thumbs_2t/20278.jpg",
+    "resolution": "3840x2160",
+    "type": "static",
+    "category": "vehicle",
+    "source": "4kwallpapers"
+  },
+  {
+    "id": "https://4kwallpapers.com/cars/mclaren-750s-spider-20269.html",
+    "title": "McLaren 750S Spider, Supercar, 5K, 8K",
+    "image_url": "https://4kwallpapers.com/images/wallpapers/mclaren-750s-spider-3840x2160-20269.jpg",
+    "thumbnail_url": "https://4kwallpapers.com/images/walls/thumbs_2t/20269.jpg",
+    "resolution": "3840x2160",
+    "type": "static",
+    "category": "vehicle",
+    "source": "4kwallpapers"
+  },
+  {
+    "id": "https://4kwallpapers.com/cars/mclaren-750s-spider-20270.html",
+    "title": "McLaren 750S Spider, Tarmac, Supercars, 5K, 8K",
+    "image_url": "https://4kwallpapers.com/images/wallpapers/mclaren-750s-spider-3840x2160-20270.jpg",
+    "thumbnail_url": "https://4kwallpapers.com/images/walls/thumbs_2t/20270.jpg",
+    "resolution": "3840x2160",
+    "type": "static",
+    "category": "vehicle",
+    "source": "4kwallpapers"
+  },
+  {
     "id": "https://4kwallpapers.com/black-dark/sub-zero-mortal-18549.html",
     "title": "Sub-Zero (Mortal Kombat), AMOLED, 5K, 8K, Black background, Sub-Zero",
     "image_url": "https://4kwallpapers.com/images/wallpapers/sub-zero-mortal-3840x2160-18549.jpg",
